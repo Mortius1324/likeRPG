@@ -6,7 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>lol</h1> 
-    asdawdsadasdwdad
+    <h1>LikeRPGLife</h1> 
+    This is for a test purposes.
+    <h2>Something boring</h2>
+    More boring text<br>
+    Are you really reading this?<br>
+    Come on, there is whole world outside<br>
+    <input type="submit" value="Smart in a different way">
 </body>
 </html>
+
+<?php
+    
+
+?>
